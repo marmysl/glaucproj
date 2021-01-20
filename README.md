@@ -1,2 +1,2 @@
-# glaucproj
-glaucoma tonometer project
+# Glaucoma Tonometer Research
+
